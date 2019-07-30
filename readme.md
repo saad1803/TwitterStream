@@ -14,3 +14,6 @@ java -jar *.jar
 
 Once the console starts, it asks for 5 topics. You can write as below 
 Cat, Dog, Chicken, Burger, Icecream
+
+## Database provision
+Adding database is not a biggie in this project since its a spring boot. We can use H2 that is spring boot compliant and use its in-memory database or file based databased to store everything in it
